@@ -1,2 +1,3 @@
+Ale jazda z tym gitem.
 Pierwsza styczność z gitem.
 Kolejna linijka w pliku :)
